@@ -1,5 +1,5 @@
 # Hi there! I’m Anna Le 🙋‍♀️ 
-
+<!-- credit goes to https://www.sitepoint.com/github-profile-readme/ for an easy tutorial -->
 <div id="badges">
   <a href="https://www.linkedin.com/in/quynhle35/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
