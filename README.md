@@ -6,9 +6,9 @@
     <img src="https://komarev.com/ghpvc/?username=annanana164&style=plastic&color=blueviolet" alt=""/>
     </a>
   </div>
- <div id="header" align="textStart">
+<!--  <div id="header" align="textStart">
   <img src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif" width="250"/>
-</div>
+</div> -->
 
  ---
  
